@@ -1,0 +1,9 @@
+{
+  "type": "folder",
+  "title": "Крипто",
+  "slug": "crypto",
+  "styles": {
+    "bold": true
+  },
+  "protected": false
+}

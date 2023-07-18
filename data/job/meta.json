@@ -1,0 +1,9 @@
+{
+  "id": "d-1",
+  "type": "notebook",
+  "title": "Работа",
+  "slug": "job",
+  "styles": {
+    "bold": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "file",
+  "title": "usdt",
+  "slug": "usdt",
+  "styles": {
+    "bold": true
+  },
+  "file": {
+    "type": "md",
+    "name": "index.md"
+  },
+  "attachments": []
+}

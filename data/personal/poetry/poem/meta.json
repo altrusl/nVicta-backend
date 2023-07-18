@@ -1,0 +1,13 @@
+{
+  "type": "file",
+  "title": "Стихотворение",
+  "slug": "poem",
+  "styles": {
+    "bold": true
+  },
+  "file": {
+    "type": "md",
+    "name": "index.md"
+  },
+  "attachments": []
+}

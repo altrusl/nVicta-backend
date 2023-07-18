@@ -1,0 +1,42 @@
+{
+  "meta": {
+    // "id": "n-1",
+    "type": "notebook",
+    "title": "Personal",
+    "slug": "personal",
+    "styles": {
+      "bold": true
+    }
+  },
+  "folders": [
+    {
+      "meta": {
+        "id": "d-2",
+        "type": "folder",
+        "title": "Финансы",
+        "slug": "finansy",
+        "styles": {
+          "bold": true
+        },
+        "protected": false
+      },
+      "files": [
+        {
+          "id": "f-1",
+          "type": "file",
+          "title": "Мои карты",
+          "slug": "my-cards",
+          "styles": {
+            "bold": true
+          },
+          "file": {
+            "type": "md",
+            "name": "index.md"
+          },
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "files": []
+}

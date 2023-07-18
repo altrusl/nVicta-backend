@@ -1,0 +1,10 @@
+{
+  "id": "d-2",
+  "type": "folder",
+  "title": "Финансы",
+  "slug": "finansy",
+  "styles": {
+    "bold": true
+  },
+  "protected": false
+}

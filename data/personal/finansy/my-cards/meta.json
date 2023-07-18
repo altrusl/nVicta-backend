@@ -1,0 +1,14 @@
+{
+  "id": "f-1",
+  "type": "file",
+  "title": "Мои карты",
+  "slug": "my-cards",
+  "styles": {
+    "bold": true
+  },
+  "file": {
+    "type": "md",
+    "name": "index.md"
+  },
+  "attachments": []
+}

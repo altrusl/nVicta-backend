@@ -1,0 +1,13 @@
+{
+  "type": "file",
+  "title": "ETH",
+  "slug": "eth",
+  "styles": {
+    "bold": true
+  },
+  "file": {
+    "type": "md",
+    "name": "index.md"
+  },
+  "attachments": []
+}

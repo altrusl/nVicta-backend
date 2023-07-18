@@ -1,0 +1,13 @@
+{
+  "type": "folder",
+  "title": "Поэзия",
+  "slug": "poetry",
+  "styles": {
+    "bold": true
+  },
+  "file": {
+    "type": "md",
+    "name": "index.md"
+  },
+  "attachments": []
+}
